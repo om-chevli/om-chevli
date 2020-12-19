@@ -19,5 +19,5 @@
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om-chevli&title=Commit,Repositories" alt="om-chevli" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-chevli&show_icons=true&locale=en&layout=compact" alt="om-chevli" />
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=om-chevli&count_private=true&show_icons=true&locale=en" alt="om-chevli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-chevli&show_icons=true&locale=en&layout=compact" alt="om-chevli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=om-chevli&count_private=true&show_icons=true&locale=en" alt="om-chevli" /></p>
