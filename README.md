@@ -1,8 +1,5 @@
 <h1 align="center">Hello👋, Myself Om Chevli</h1>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om-chevli&title=Commit,Repositories" alt="om-chevli" /></a> </p>
-
 - 🔭 I’m currently working on Web Devlopment
 - 🌱 I’m currently learning **Node.js**
 - 👯 I’m looking to collaborate on Flutter and Web D!
@@ -20,8 +17,8 @@
 <a href="https://instagram.com/om.chevli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="om.chevli" height="30" width="40" /></a>
 <a href="https://medium.com/@omchevli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@omchevli" height="30" width="40" /></a>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om-chevli&title=Commit,Repositories" alt="om-chevli" /></a> </p>
 
-![Om' github stats]()
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-chevli&show_icons=true&locale=en&layout=compact" alt="jugaldb" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-chevli&show_icons=true&locale=en&layout=compact" alt="om-chevli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=om-chevli&count_private=true&show_icons=true&locale=en" alt="jugaldb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=om-chevli&count_private=true&show_icons=true&locale=en" alt="om-chevli" /></p>
